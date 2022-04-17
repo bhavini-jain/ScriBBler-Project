@@ -50,13 +50,14 @@ a {
 }
 
 .value2 {
-    width: 100px;
+    width: 108px;
     margin-left: auto;
     margin-right: auto;
     background-color: #5eb762;
     border: #5eb762;
     color: white;
     font-weight: bolder;
+    height: 37px;
 }
 
 input[type="submit"] {
